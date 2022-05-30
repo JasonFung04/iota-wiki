@@ -62,3 +62,11 @@
 	path = content/build/hornet/develop
 	url = https://github.com/dr-electron/hornet
 	branch = docs/feat/versioned-develop
+[submodule "content/build/chrysalis-docs/production"]
+	path = content/build/chrysalis-docs/production
+	url = https://github.com/iotaledger/chrysalis-docs
+	branch = feat/versioned-main
+[submodule "content/build/chrysalis-docs/develop"]
+	path = content/build/chrysalis-docs/develop
+	url = https://github.com/iotaledger/chrysalis-docs
+	branch = feat/versioned-develop
